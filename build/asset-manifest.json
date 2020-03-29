@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anilalston.me/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/anilalston.me/static/js/main.c9b89080.chunk.js",
+    "main.js.map": "/anilalston.me/static/js/main.c9b89080.chunk.js.map",
+    "runtime-main.js": "/anilalston.me/static/js/runtime-main.e43b75dc.js",
+    "runtime-main.js.map": "/anilalston.me/static/js/runtime-main.e43b75dc.js.map",
+    "static/js/2.dfd53c57.chunk.js": "/anilalston.me/static/js/2.dfd53c57.chunk.js",
+    "static/js/2.dfd53c57.chunk.js.map": "/anilalston.me/static/js/2.dfd53c57.chunk.js.map",
+    "index.html": "/anilalston.me/index.html",
+    "precache-manifest.927a3269f87e5d9d395358d58c272b47.js": "/anilalston.me/precache-manifest.927a3269f87e5d9d395358d58c272b47.js",
+    "service-worker.js": "/anilalston.me/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/anilalston.me/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.dfd53c57.chunk.js.LICENSE.txt": "/anilalston.me/static/js/2.dfd53c57.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/anilalston.me/static/media/profile.19eb300a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e43b75dc.js",
+    "static/js/2.dfd53c57.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c9b89080.chunk.js"
+  ]
+}
